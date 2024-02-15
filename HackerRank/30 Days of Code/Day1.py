@@ -2,7 +2,7 @@
 Objective 
 Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
 
-Task 
+Task
 Complete the code in the editor below. The variables , , and  are already declared and initialized for you. You must:
 
 Declare  variables: one of type int, one of type double, and one of type String.
